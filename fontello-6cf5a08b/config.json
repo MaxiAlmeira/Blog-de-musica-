@@ -1,0 +1,58 @@
+{
+  "name": "turismo",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "8045477f6a7ef0bd7caff130ad25b88d",
+      "css": "facebook-rect-1",
+      "code": 59392,
+      "src": "brandico"
+    },
+    {
+      "uid": "cc20f2a7fa05a475130c406740bbbd26",
+      "css": "instagram-filled",
+      "code": 62239,
+      "src": "brandico"
+    },
+    {
+      "uid": "906348dc798a0d42715cc97c875e3ac6",
+      "css": "twitter-squared",
+      "code": 62212,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "79689c4c425b7cdaa2746f510e81e27a",
+      "css": "pinterest-squared",
+      "code": 61651,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "e331ff486a299c6bdf0056426c8fac53",
+      "css": "youtube-squared",
+      "code": 61798,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "47bd87a650e95b97f947d275ed968efe",
+      "css": "facebook-squared",
+      "code": 62222,
+      "src": "entypo"
+    },
+    {
+      "uid": "8b80d36d4ef43889db10bc1f0dc9a862",
+      "css": "user",
+      "code": 59393,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "9dd9e835aebe1060ba7190ad2b2ed951",
+      "css": "search",
+      "code": 59394,
+      "src": "fontawesome"
+    }
+  ]
+}

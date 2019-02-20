@@ -1,0 +1,56 @@
+.cuadro1{
+  background: #CCAACCAA;
+}
+
+.cuadro2{
+  background: #66CCDDCC;
+}
+.cuadro3{
+  background: #44DD44DD;
+}
+.cuadro4{
+  background: #BBEEBBEE;
+}
+.cuadro5{
+  background: #CCAACCAA;
+}
+
+body{
+  background: #900000;
+}
+
+
+.icono-redes{
+  color:white;
+  margin: 0px;
+  padding: 5px;
+  font-size: 25px;
+  margin-bottom: 15px;
+}
+
+.icono-redes:hover{
+  opacity: 0.8;
+}
+
+.size-letter{
+  font-weight: 600;
+}
+
+.bg-gris{
+  background: #EDEDED;
+}
+
+.list-search li {
+  width: 90%;
+  border-bottom: 1px solid #CDCDCD;
+}
+
+.list-search li a {
+  color: black;
+}
+
+.list-search li:hover {
+  opacity: 0.8;
+  background: #CCCCCC;
+  border-radius: 2px;
+}
